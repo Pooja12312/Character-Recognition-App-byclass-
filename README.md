@@ -14,7 +14,7 @@ EMNIST Letters: 145,600 characters. 26 balanced classes.<br>
 EMNIST Digits: 280,000 characters. 10 balanced classes.<br>
 EMNIST MNIST: 70,000 characters. 10 balanced classes.<br>
 
-![outpu(2)](./Interface/output(2).png)
+![output (2)](./Interface/output (2).png)
 - **Emnist_byclass_Model.py** consists dataset download from kaggle, visualization, preprocessing on dataset and creat a model  
 
 - **app.py** consists of "model - 32x64 bs_1024 ep_5 acc_0.871 loss_0.345  (1).h5" model which is added in the repository, by visiting the Kaggle Notebook URL, one can try out the code and download the model with their required specifications, so as to avoid version errors while deploying over web.
