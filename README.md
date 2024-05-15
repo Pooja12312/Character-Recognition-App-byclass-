@@ -22,7 +22,7 @@ EMNIST MNIST: 70,000 characters. 10 balanced classes.<br>
 ## Output of app.py
 
 ### Interface 1
-![output(2)](https://github.com/Pooja12312/Character-Recognition-App-byclass-/blob/main/Interface/output%20(2).png)
+![output(2)](https://github.com/Pooja12312/Character-Recognition-App-byclass-/blob/main/Interface/st1.png)
 
 ### Interface 2
 
