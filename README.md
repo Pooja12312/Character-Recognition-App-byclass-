@@ -16,6 +16,7 @@ EMNIST MNIST: 70,000 characters. 10 balanced classes.<br>
 
 ## Our aim is to get 
 ![output(2)](https://github.com/Pooja12312/Character-Recognition-App-byclass-/blob/main/Interface/output%20(2).png)
+
 - **Emnist_byclass_Model.ipynb** consists dataset download from kaggle, visualization, preprocessing on dataset and creat a model  
 
 - **app.py** consists of "model - 32x64 bs_1024 ep_5 acc_0.871 loss_0.345  (1).h5" model which is added in the repository, by visiting the Kaggle Notebook URL, one can try out the code and download the model with their required specifications, so as to avoid version errors while deploying over web.
@@ -26,6 +27,6 @@ EMNIST MNIST: 70,000 characters. 10 balanced classes.<br>
 
 ### Interface 2
 
-![output(2)](https://github.com/Pooja12312/Character-Recognition-App-byclass-/blob/main/Interface/output%20(2).png)
+![output(2)](https://github.com/Pooja12312/Character-Recognition-App-byclass-/blob/main/Interface/str2.png)
 
 In summary, this code creates a streamlit based handwritten charactor recognition application where users can upload an image containing handwritten charactor. The application then uses the Downloaded Model to recognize and display the text from these inputs through a user-friendly interface it also transfer the style of input charector in the give font file (calligraphy). 
